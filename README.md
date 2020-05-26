@@ -18,3 +18,14 @@ This is how the infected cell lokks lile under microscope.
 
 
 ![](infected.png)
+
+
+
+The graphs for the accuracy and loss while training
+
+
+
+
+
+![](cell_loss.png)![](cell_acc.png)
+
