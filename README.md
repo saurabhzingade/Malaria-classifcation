@@ -17,4 +17,4 @@ This is how the infected cell lokks lile under microscope.
 
 
 
-![]()
+![](infected.png)
