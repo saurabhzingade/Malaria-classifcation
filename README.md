@@ -29,3 +29,5 @@ The graphs for the accuracy and loss while training
 
 ![](cell_loss.png)       ![](cell_acc.png)
 
+
+
